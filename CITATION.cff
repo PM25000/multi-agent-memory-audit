@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this research artifact when using its code, data or protocols."
+type: software
+title: "Auditing Recipient Exposure in Multi-Agent Memory Distribution: Paired Accounting and Finite-Frame Evidence"
+version: "public-20261018-v2"
+authors:
+  - family-names: Deng
+    given-names: Minghui
+    orcid: "https://orcid.org/0009-0000-4976-7075"
+  - family-names: Huo
+    given-names: Guijing
+  - family-names: Weng
+    given-names: Kai
+repository-code: "https://github.com/PM25000/multi-agent-memory-audit"
+license: MIT

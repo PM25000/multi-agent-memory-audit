@@ -1,0 +1,22 @@
+{
+  "excluded_campaign": "execution_extension_20261005 predecessor, not the final v2 study",
+  "reason": "Dependency implementation bug before N39; all v1 effects excluded, raw calls retained",
+  "original_accounting_sha256": "7bdd7d22bd1a3239596b1cc215a659f9522a8d396cf30c09e7d38c530b23b042",
+  "source_field_software_aborted_pilot": true,
+  "classification_note": "Aborted predecessor; not a prospectively planned pilot. All v1 effects excluded from final v2 estimates.",
+  "models": {
+    "glm": {
+      "receipts": 100,
+      "published_intents": 102,
+      "intents_without_receipts": 2,
+      "excluded_from_v2": true
+    },
+    "qwen": {
+      "receipts": 57,
+      "published_intents": 59,
+      "intents_without_receipts": 2,
+      "excluded_from_v2": true
+    }
+  },
+  "raw_predecessor_records_included": false
+}

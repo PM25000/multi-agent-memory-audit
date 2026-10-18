@@ -1,0 +1,79 @@
+{
+  "revision": "public-20261018-v2",
+  "publication_status": "Versioned Release assets; see https://github.com/PM25000/multi-agent-memory-audit/releases/tag/public-20261018-v2",
+  "repository": "https://github.com/PM25000/multi-agent-memory-audit",
+  "packages": {
+    "S1": {
+      "file": "S1-public-20261018-v1.zip",
+      "sha256": "9d60f36b60d726acf49d12108261eadfeccacc99661b9e6b2e537b885d6dca92",
+      "bytes": 66909,
+      "files": 14,
+      "original_archive_sha256": "cc4986df22167ac54a4c64d19c5ba7facddb1aa7a6dda6a393b5e11354ecff1a",
+      "original_archive_files_excluded": 2,
+      "public_package_manifest_sha256": "2a996ab5e0d9d5f3b755b9717055ad6586e0bcbd15c9f018f6aab7132295772f"
+    },
+    "S2": {
+      "file": "S2-public-20261018-v1.zip",
+      "sha256": "c1de4044658f745f7e26f0348befd4acecff618e64aaafcb793eef65de6882c7",
+      "bytes": 27078,
+      "files": 15,
+      "original_archive_sha256": "a8ff1b00d0cd9ae38864e46c5a404b9997808f9a847317c23b229e78a777eae7",
+      "original_archive_files_excluded": 1,
+      "public_package_manifest_sha256": "2f44adae959553eed5d6b80944490191236255a2e565d51d7572a22649a84e7c"
+    },
+    "S3": {
+      "file": "S3-public-20261018-v1.zip",
+      "sha256": "20d2f7c827d5d664bd7a23035ba58877c260719cc49afadc3e92c58cd233ab46",
+      "bytes": 17563582,
+      "files": 4398,
+      "original_archive_sha256": "e0de51292a9b1810124a9ab15d47902d11ab20d006b3020378b05b9f39fa3fec",
+      "original_archive_files_excluded": 0,
+      "public_package_manifest_sha256": "151fb20a12b7b3e52f47c4b051553e1a582b48f0040216eefd83a90b932712bc"
+    },
+    "S4": {
+      "file": "S4-public-20261018-v1.zip",
+      "sha256": "2b2b76a054a90c7a49fad5e666e352052077ccb31e907b7ff3e82c7898e6fde7",
+      "bytes": 1044616,
+      "files": 12,
+      "original_archive_sha256": "a10b66e7a973aec50fa6f0c64ab04620506cc35116a0bf1ccf76ea64ca1b4946",
+      "original_archive_files_excluded": 1,
+      "public_package_manifest_sha256": "fa2cb05df3b5b598be32cc23861a00e76a33c12c6974a17f99869df437f21c49"
+    },
+    "S5": {
+      "file": "S5-public-20261018-v1.zip",
+      "sha256": "7fb8c140c39b0d67d4c3f403e9e6b3b735ae056544905965dab02d848bf5d6a6",
+      "bytes": 146476,
+      "files": 45,
+      "original_archive_sha256": "eebf61f69ed9e3db537d8449040e278bc048cab6d17c425f7a2db215be35d6f7",
+      "original_archive_files_excluded": 3,
+      "public_package_manifest_sha256": "778adcf7761b83f4750988e10bc70719ab255582cc99532eb639abe1aaf377cd"
+    },
+    "S6": {
+      "file": "S6-public-20261018-v1.zip",
+      "sha256": "ce98d2aeff17348be2458125e26061dc3bb31472dcc2ede2821fe6a491c284bc",
+      "bytes": 76436031,
+      "files": 7487,
+      "original_archive_sha256": "48a652b5eeb556a6c4380d0aa7bbf7c069229829a983f20dece74c373c693110",
+      "original_archive_files_excluded": 823,
+      "public_package_manifest_sha256": "2e8c69ff5420aa8a67d33b6918db15bcf3ddd2df3b873a50d27e646fef1af25b"
+    },
+    "S7": {
+      "file": "S7-public-20261018-v1.zip",
+      "sha256": "9694fc9a52ee474a04707246298a0906debc0afc763a961f0c8638249223c0eb",
+      "bytes": 5380241,
+      "files": 1327,
+      "original_archive_sha256": "e58f79121bac75e6d99e36cedbbe1bf7a4bf0f4df137f1d1d2002b97b3931b04",
+      "original_archive_files_excluded": 460,
+      "public_package_manifest_sha256": "a9ce6153bbcd1b1ed001656ba37f7d9a4d96ffb9f41fd504c8e19e429d65a0ff"
+    },
+    "S8": {
+      "file": "S8-public-20261018-v2.zip",
+      "sha256": "03f5509630222008cdd3a8245e71c9c936e60c30d7be733e3a7ae6fc4d76a4f3",
+      "bytes": 682784,
+      "files": 45,
+      "original_archive_sha256": "9b9c4aa79c3bb5be2cb4c7484594d89559038c414ebf14001cd696aeff846b5c",
+      "original_archive_files_excluded": 2,
+      "public_package_manifest_sha256": "8e678cd1384baec6b6e79d311dfffec750aec0f718eff223e2940748e716e4c0"
+    }
+  }
+}

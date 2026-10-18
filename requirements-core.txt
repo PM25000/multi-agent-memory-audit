@@ -1,0 +1,4 @@
+# S1/S3 replay; other simple package checks use the standard library.
+numpy==2.4.6
+openai==2.46.0
+python-dotenv==1.2.2
